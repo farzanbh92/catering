@@ -1,0 +1,28 @@
+.slider-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 5;
+  }
+  
+  .slide {
+    display: none;
+  }
+  
+  .slide.active {
+    display: block;
+  }
+  
+  .arrow-button {
+    padding: 8px;
+    background-color:gray;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    opacity: 0.8;
+  }
+  
+  .arrow-button:hover {
+    opacity: 1;
+  }
