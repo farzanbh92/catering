@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/catering/static/css/main.67b50aec.css",
+    "main.js": "/catering/static/js/main.20c49685.js",
+    "static/js/787.47bf7c87.chunk.js": "/catering/static/js/787.47bf7c87.chunk.js",
+    "static/media/pic10.jpg": "/catering/static/media/pic10.611125cbc6cc2fa64740.jpg",
+    "static/media/pic3.jpg": "/catering/static/media/pic3.970fb3b9b24894f14a8e.jpg",
+    "static/media/pic6.jpg": "/catering/static/media/pic6.fe0a38382566f428a812.jpg",
+    "static/media/pic5.jpg": "/catering/static/media/pic5.bad64fd5c2539fdfd6c0.jpg",
+    "static/media/pic4.jpg": "/catering/static/media/pic4.c2ba17f696a55df36d2f.jpg",
+    "static/media/pic1.jpg": "/catering/static/media/pic1.d4b37a10f75da504ed23.jpg",
+    "static/media/pic12.jpg": "/catering/static/media/pic12.82fe8c478d0f2dba8577.jpg",
+    "static/media/pic2.jpg": "/catering/static/media/pic2.ee9a706012355e3cd3ec.jpg",
+    "static/media/pic11.jpg": "/catering/static/media/pic11.27ab00560ee784597714.jpg",
+    "static/media/pic9.jpg": "/catering/static/media/pic9.f79fa524897cf0bd2a55.jpg",
+    "static/media/pic13.jpg": "/catering/static/media/pic13.9132c6fbaf164c950a69.jpg",
+    "static/media/logo.png": "/catering/static/media/logo.94e7638cf801c48fb47a.png",
+    "static/media/pic8.jpg": "/catering/static/media/pic8.a72da3cc51e0cc4db6d2.jpg",
+    "static/media/pic14.jpg": "/catering/static/media/pic14.99ee028e19b47eda3e1b.jpg",
+    "static/media/pic7.jpg": "/catering/static/media/pic7.ab0b5834d17daa7669cd.jpg",
+    "static/media/whatsapp.png": "/catering/static/media/whatsapp.9fb7f0a3426d33149327.png",
+    "static/media/instagram.png": "/catering/static/media/instagram.cdaae8e9e7cd76e08247.png",
+    "static/media/telegram.png": "/catering/static/media/telegram.1a2302f29722f7dbcf94.png",
+    "index.html": "/catering/index.html",
+    "main.67b50aec.css.map": "/catering/static/css/main.67b50aec.css.map",
+    "main.20c49685.js.map": "/catering/static/js/main.20c49685.js.map",
+    "787.47bf7c87.chunk.js.map": "/catering/static/js/787.47bf7c87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b50aec.css",
+    "static/js/main.20c49685.js"
+  ]
+}
