@@ -93,7 +93,7 @@ const Menue = () => {
 </div>
 
 <div className='opacity-70 md:px-12 py-4'>
-<img src={img7} alt='' className='w-full h-screen'/>
+<img src={img7} alt='' className='w-full md:h-screen'/>
 </div>
 
 </div>
@@ -186,7 +186,7 @@ const Menue = () => {
 </div>
 
 <div className='opacity-70 md:px-12 py-4'>
-<img src={img8} alt='' className='w-full h-screen'/>
+<img src={img8} alt='' className='w-full md:h-screen'/>
 </div>
 
 </div>

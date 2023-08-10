@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <>
         <div className='p-8'>
-         <SliderImage/>
+        <SliderImage/>
         </div>
         <Menue/>
         </>
