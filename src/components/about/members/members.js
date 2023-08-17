@@ -4,7 +4,7 @@ import img14 from '../../../assets/images/pic14.jpg';
 
 const Members = () => {
     return (
-        <div className='grid grid-cols-2 md:grid-cols-3 py-8 md:px-32 gap-y-8 justify-items-center'>
+        <div className='grid grid-cols-1 md:grid-cols-3 py-8 md:px-32 gap-y-8 justify-items-center'>
 
          <div className='bg-green-200 p-4 w-40 rounded-2xl'>
            <img src={img13} alt='' className='mx-auto'/>

@@ -37,7 +37,9 @@ The earliest account of major services being catered in the United States was an
       <div className='bg-blue-200 mt-12 p-2 rounded-full text-center font-bold text-lg w-36 mx-auto'>
          Our team
       </div>
+
       <Members/>
+      
      </>
     
     );
