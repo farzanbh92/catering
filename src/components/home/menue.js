@@ -198,27 +198,27 @@ const Menue = () => {
 <div className='bg-green-200 rounded-2xl'>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Lemon Blueberry</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Lemon Blueberry</div>
 <div className='text-center md:text-sm'>6$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Creamsicles</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Creamsicles</div>
 <div className='text-center md:text-sm'>5$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Flourless Chocolate</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Flourless Chocolate</div>
 <div className='text-center md:text-sm'>6$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Key Lime Pie Mousse</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Key Lime Pie Mousse</div>
 <div className='text-center md:text-sm'>4$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Coffee Cookies</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Coffee Cookies</div>
 <div className='text-center md:text-sm'>5$</div>
 </div>
 
@@ -227,27 +227,27 @@ const Menue = () => {
 <div className='bg-red-200 rounded-2xl'>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Strawberry Pop Tart</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Strawberry Pop Tart</div>
 <div className='text-center md:text-sm'>6$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>No Bake Oatmeal</div>
+<div className='pl-4 md:pl-8 md:text-sm'>No Bake Oatmeal</div>
 <div className='text-center md:text-sm'>8$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Peach Crumble</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Peach Crumble</div>
 <div className='text-center md:text-sm'>7$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Fruits Icecream</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Fruits Icecream</div>
 <div className='text-center md:text-sm'>6$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Karamel</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Karamel</div>
 <div className='text-center md:text-sm'>7$</div>
 </div>
 
@@ -256,27 +256,27 @@ const Menue = () => {
 <div className='bg-yellow-200 rounded-2xl'>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Fruit Dish</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Fruit Dish</div>
 <div className='text-center md:text-sm'>8$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Gelatto</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Gelatto</div>
 <div className='text-center md:text-sm'>6$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Milk Shake</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Milk Shake</div>
 <div className='text-center md:text-sm'>5$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Chocolate Vaffel</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Chocolate Vaffel</div>
 <div className='text-center md:text-sm'>6$</div>
 </div>
 
 <div className='grid grid-cols-2 gap-2 my-4'>
-<div className='pl-4 md:pl-20 md:text-sm'>Coffee Icecream</div>
+<div className='pl-4 md:pl-8 md:text-sm'>Coffee Icecream</div>
 <div className='text-center md:text-sm'>7$</div>
 </div>
 
