@@ -11,7 +11,7 @@ const Order = () => {
 const backgroundStyle = {backgroundImage: `url(${img9})`,opacity:'0.8'};
 
 return (
-    <div className="bg-cover bg-center grid grid-cols-1 w-full h-screen justify-items-center content-center mb-20" style={backgroundStyle}>
+    <div className="bg-cover bg-center grid grid-cols-1 w-full h-72 md:h-screen justify-items-center content-center mb-20" style={backgroundStyle}>
           
       <div className='grid grid-cols-1 p-4 text-center 
        bg-blue-300 md:p-8 opacity-60 hover:opacity-100 
